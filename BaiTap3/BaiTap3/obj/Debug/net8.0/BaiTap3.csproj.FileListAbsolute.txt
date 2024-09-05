@@ -1,0 +1,1588 @@
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\obj\Debug\net8.0\BaiTap3.csproj.AssemblyReference.cache
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\obj\Debug\net8.0\BaiTap3.GeneratedMSBuildEditorConfig.editorconfig
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\obj\Debug\net8.0\BaiTap3.AssemblyInfoInputs.cache
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\obj\Debug\net8.0\BaiTap3.AssemblyInfo.cs
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\obj\Debug\net8.0\BaiTap3.csproj.CoreCompileInputs.cache
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\obj\Debug\net8.0\BaiTap3.MvcApplicationPartsAssemblyInfo.cs
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\obj\Debug\net8.0\BaiTap3.MvcApplicationPartsAssemblyInfo.cache
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\obj\Debug\net8.0\BaiTap3.RazorAssemblyInfo.cache
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\obj\Debug\net8.0\BaiTap3.RazorAssemblyInfo.cs
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\obj\Debug\net8.0\BaiTap3.sourcelink.json
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\appsettings.Development.json
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\appsettings.json
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\BaiTap3.staticwebassets.runtime.json
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\BaiTap3.exe
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\BaiTap3.deps.json
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\BaiTap3.runtimeconfig.json
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\BaiTap3.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\BaiTap3.pdb
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.BearerToken.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authorization.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Endpoints.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Cors.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Hosting.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Results.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Identity.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Localization.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Metadata.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.OutputCaching.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.RateLimiting.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Razor.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.RequestDecompression.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Routing.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.NamedPipes.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Session.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.SignalR.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.CSharp.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.Caching.Memory.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Json.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.DependencyInjection.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.Features.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.Hosting.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.Http.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.Identity.Core.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.Identity.Stores.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.Localization.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.Console.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.ObjectPool.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.Options.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.Primitives.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.WebEncoders.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.JSInterop.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Net.Http.Headers.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.VisualBasic.Core.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.VisualBasic.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Win32.Primitives.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Win32.Registry.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\mscorlib.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\netstandard.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.AppContext.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Buffers.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Collections.Concurrent.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Collections.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Collections.Immutable.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Collections.NonGeneric.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Collections.Specialized.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.ComponentModel.Annotations.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.ComponentModel.DataAnnotations.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.ComponentModel.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.ComponentModel.EventBasedAsync.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.ComponentModel.Primitives.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.ComponentModel.TypeConverter.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Configuration.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Console.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Core.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Data.Common.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Data.DataSetExtensions.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Data.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Diagnostics.Contracts.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Diagnostics.Debug.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Diagnostics.DiagnosticSource.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Diagnostics.EventLog.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Diagnostics.FileVersionInfo.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Diagnostics.Process.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Diagnostics.StackTrace.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Diagnostics.Tools.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Diagnostics.TraceSource.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Diagnostics.Tracing.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Drawing.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Drawing.Primitives.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Dynamic.Runtime.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Formats.Asn1.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Formats.Tar.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Globalization.Calendars.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Globalization.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Globalization.Extensions.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.IO.Compression.Brotli.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.IO.Compression.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.IO.Compression.FileSystem.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.IO.Compression.ZipFile.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.IO.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.IO.FileSystem.AccessControl.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.IO.FileSystem.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.IO.FileSystem.DriveInfo.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.IO.FileSystem.Primitives.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.IO.FileSystem.Watcher.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.IO.IsolatedStorage.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.IO.MemoryMappedFiles.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.IO.Pipelines.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.IO.Pipes.AccessControl.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.IO.Pipes.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.IO.UnmanagedMemoryStream.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Linq.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Linq.Expressions.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Linq.Parallel.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Linq.Queryable.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Memory.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Net.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Net.Http.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Net.Http.Json.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Net.HttpListener.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Net.Mail.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Net.NameResolution.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Net.NetworkInformation.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Net.Ping.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Net.Primitives.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Net.Quic.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Net.Requests.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Net.Security.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Net.ServicePoint.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Net.Sockets.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Net.WebClient.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Net.WebHeaderCollection.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Net.WebProxy.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Net.WebSockets.Client.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Net.WebSockets.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Numerics.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Numerics.Vectors.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.ObjectModel.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Reflection.DispatchProxy.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Reflection.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Reflection.Emit.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Reflection.Emit.ILGeneration.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Reflection.Emit.Lightweight.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Reflection.Extensions.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Reflection.Metadata.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Reflection.Primitives.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Reflection.TypeExtensions.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Resources.Reader.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Resources.ResourceManager.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Resources.Writer.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Runtime.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Runtime.Extensions.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Runtime.Handles.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Runtime.InteropServices.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Runtime.InteropServices.JavaScript.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Runtime.Intrinsics.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Runtime.Loader.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Runtime.Numerics.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Runtime.Serialization.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Runtime.Serialization.Formatters.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Runtime.Serialization.Json.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Runtime.Serialization.Primitives.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Runtime.Serialization.Xml.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Security.AccessControl.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Security.Claims.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Security.Cryptography.Algorithms.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Security.Cryptography.Cng.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Security.Cryptography.Csp.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Security.Cryptography.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Security.Cryptography.Encoding.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Security.Cryptography.OpenSsl.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Security.Cryptography.Primitives.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Security.Cryptography.X509Certificates.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Security.Cryptography.Xml.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Security.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Security.Principal.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Security.Principal.Windows.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Security.SecureString.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.ServiceModel.Web.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.ServiceProcess.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Text.Encoding.CodePages.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Text.Encoding.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Text.Encoding.Extensions.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Text.Encodings.Web.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Text.Json.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Text.RegularExpressions.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Threading.Channels.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Threading.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Threading.Overlapped.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Threading.RateLimiting.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Threading.Tasks.Dataflow.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Threading.Tasks.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Threading.Tasks.Extensions.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Threading.Tasks.Parallel.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Threading.Thread.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Threading.ThreadPool.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Threading.Timer.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Transactions.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Transactions.Local.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.ValueTuple.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Web.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Web.HttpUtility.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Windows.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Xml.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Xml.Linq.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Xml.ReaderWriter.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Xml.Serialization.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Xml.XDocument.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Xml.XmlDocument.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Xml.XmlSerializer.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Xml.XPath.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Xml.XPath.XDocument.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\WindowsBase.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\obj\Debug\net8.0\staticwebassets.build.json
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\obj\Debug\net8.0\staticwebassets.development.json
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\obj\Debug\net8.0\staticwebassets\msbuild.BaiTap3.Microsoft.AspNetCore.StaticWebAssets.props
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\obj\Debug\net8.0\staticwebassets\msbuild.build.BaiTap3.props
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BaiTap3.props
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BaiTap3.props
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\obj\Debug\net8.0\staticwebassets.pack.json
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\obj\Debug\net8.0\scopedcss\bundle\BaiTap3.styles.css
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\obj\Debug\net8.0\scopedcss\projectbundle\BaiTap3.bundle.scp.css
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\obj\Debug\net8.0\BaiTap3.csproj.Up2Date
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\obj\Debug\net8.0\BaiTap3.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\obj\Debug\net8.0\refint\BaiTap3.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\obj\Debug\net8.0\BaiTap3.pdb
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\obj\Debug\net8.0\BaiTap3.genruntimeconfig.cache
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\obj\Debug\net8.0\ref\BaiTap3.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\Humanizer.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\Microsoft.Build.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\NuGet.Common.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\NuGet.Configuration.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\NuGet.LibraryModel.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\NuGet.Packaging.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\NuGet.ProjectModel.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\NuGet.Protocol.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\NuGet.Versioning.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\System.CodeDom.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\af\Humanizer.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\ar\Humanizer.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\az\Humanizer.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\bg\Humanizer.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\cs\Humanizer.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\da\Humanizer.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\de\Humanizer.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\el\Humanizer.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\es\Humanizer.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\fa\Humanizer.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\fr\Humanizer.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\he\Humanizer.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\hr\Humanizer.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\hu\Humanizer.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\hy\Humanizer.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\id\Humanizer.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\is\Humanizer.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\it\Humanizer.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\ja\Humanizer.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\ku\Humanizer.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\lv\Humanizer.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\mt\Humanizer.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\nb\Humanizer.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\nl\Humanizer.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\pl\Humanizer.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\pt\Humanizer.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\ro\Humanizer.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\ru\Humanizer.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\sk\Humanizer.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\sl\Humanizer.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\sr\Humanizer.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\sv\Humanizer.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\tr\Humanizer.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\uk\Humanizer.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\vi\Humanizer.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\LapTrinhWeb\ASP.net\BaiTap3\BaiTap3\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\appsettings.json
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\BaiTap3.staticwebassets.runtime.json
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\BaiTap3.exe
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\BaiTap3.deps.json
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\BaiTap3.runtimeconfig.json
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\BaiTap3.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\BaiTap3.pdb
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.BearerToken.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authorization.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Endpoints.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Server.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Cors.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Hosting.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Results.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Identity.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Localization.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Metadata.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.OutputCaching.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.RateLimiting.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Razor.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.RequestDecompression.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Rewrite.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Routing.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.NamedPipes.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Session.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.SignalR.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.WebSockets.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.CSharp.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.Features.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.Hosting.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.Http.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.Identity.Core.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.Localization.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.Console.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.ObjectPool.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.Options.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.Primitives.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.WebEncoders.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.JSInterop.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Net.Http.Headers.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.VisualBasic.Core.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.VisualBasic.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Win32.Primitives.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Win32.Registry.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\mscorlib.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\netstandard.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.AppContext.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Buffers.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Collections.Concurrent.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Collections.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Collections.Immutable.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Collections.NonGeneric.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Collections.Specialized.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.ComponentModel.Annotations.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.ComponentModel.DataAnnotations.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.ComponentModel.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.ComponentModel.EventBasedAsync.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.ComponentModel.Primitives.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.ComponentModel.TypeConverter.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Configuration.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Console.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Core.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Data.Common.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Data.DataSetExtensions.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Data.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Diagnostics.Contracts.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Diagnostics.Debug.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Diagnostics.DiagnosticSource.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Diagnostics.EventLog.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Diagnostics.FileVersionInfo.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Diagnostics.Process.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Diagnostics.StackTrace.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Diagnostics.Tools.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Diagnostics.TraceSource.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Diagnostics.Tracing.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Drawing.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Drawing.Primitives.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Dynamic.Runtime.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Formats.Asn1.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Formats.Tar.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Globalization.Calendars.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Globalization.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Globalization.Extensions.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.IO.Compression.Brotli.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.IO.Compression.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.IO.Compression.FileSystem.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.IO.Compression.ZipFile.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.IO.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.IO.FileSystem.AccessControl.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.IO.FileSystem.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.IO.FileSystem.DriveInfo.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.IO.FileSystem.Primitives.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.IO.FileSystem.Watcher.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.IO.IsolatedStorage.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.IO.MemoryMappedFiles.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.IO.Pipelines.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.IO.Pipes.AccessControl.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.IO.Pipes.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.IO.UnmanagedMemoryStream.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Linq.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Linq.Expressions.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Linq.Parallel.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Linq.Queryable.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Memory.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Net.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Net.Http.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Net.Http.Json.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Net.HttpListener.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Net.Mail.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Net.NameResolution.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Net.NetworkInformation.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Net.Ping.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Net.Primitives.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Net.Quic.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Net.Requests.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Net.Security.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Net.ServicePoint.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Net.Sockets.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Net.WebClient.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Net.WebHeaderCollection.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Net.WebProxy.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Net.WebSockets.Client.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Net.WebSockets.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Numerics.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Numerics.Vectors.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.ObjectModel.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Reflection.DispatchProxy.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Reflection.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Reflection.Emit.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Reflection.Emit.ILGeneration.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Reflection.Emit.Lightweight.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Reflection.Extensions.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Reflection.Metadata.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Reflection.Primitives.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Reflection.TypeExtensions.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Resources.Reader.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Resources.ResourceManager.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Resources.Writer.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Runtime.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Runtime.Extensions.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Runtime.Handles.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Runtime.InteropServices.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Runtime.InteropServices.JavaScript.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Runtime.Intrinsics.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Runtime.Loader.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Runtime.Numerics.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Runtime.Serialization.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Runtime.Serialization.Formatters.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Runtime.Serialization.Json.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Runtime.Serialization.Primitives.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Runtime.Serialization.Xml.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Security.AccessControl.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Security.Claims.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Security.Cryptography.Algorithms.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Security.Cryptography.Cng.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Security.Cryptography.Csp.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Security.Cryptography.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Security.Cryptography.Encoding.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Security.Cryptography.OpenSsl.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Security.Cryptography.Primitives.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Security.Cryptography.X509Certificates.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Security.Cryptography.Xml.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Security.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Security.Principal.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Security.Principal.Windows.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Security.SecureString.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.ServiceModel.Web.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.ServiceProcess.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Text.Encoding.CodePages.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Text.Encoding.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Text.Encoding.Extensions.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Text.Encodings.Web.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Text.Json.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Text.RegularExpressions.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Threading.Channels.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Threading.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Threading.Overlapped.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Threading.RateLimiting.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Threading.Tasks.Dataflow.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Threading.Tasks.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Threading.Tasks.Extensions.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Threading.Tasks.Parallel.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Threading.Thread.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Threading.ThreadPool.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Threading.Timer.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Transactions.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Transactions.Local.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.ValueTuple.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Web.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Web.HttpUtility.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Windows.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Xml.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Xml.Linq.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Xml.ReaderWriter.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Xml.Serialization.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Xml.XDocument.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Xml.XmlDocument.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Xml.XmlSerializer.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Xml.XPath.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Xml.XPath.XDocument.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\WindowsBase.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\Humanizer.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\Microsoft.Build.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\NuGet.Common.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\NuGet.Configuration.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\NuGet.LibraryModel.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\NuGet.Packaging.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\NuGet.ProjectModel.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\NuGet.Protocol.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\NuGet.Versioning.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\af\Humanizer.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\ar\Humanizer.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\az\Humanizer.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\bg\Humanizer.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\cs\Humanizer.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\da\Humanizer.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\de\Humanizer.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\el\Humanizer.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\es\Humanizer.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\fa\Humanizer.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\fr\Humanizer.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\he\Humanizer.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\hr\Humanizer.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\hu\Humanizer.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\hy\Humanizer.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\id\Humanizer.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\is\Humanizer.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\it\Humanizer.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\ja\Humanizer.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\ku\Humanizer.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\lv\Humanizer.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\mt\Humanizer.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\nb\Humanizer.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\nl\Humanizer.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\pl\Humanizer.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\pt\Humanizer.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\ro\Humanizer.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\ru\Humanizer.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\sk\Humanizer.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\sl\Humanizer.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\sr\Humanizer.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\sv\Humanizer.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\tr\Humanizer.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\uk\Humanizer.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\vi\Humanizer.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\obj\Debug\net8.0\BaiTap3.csproj.AssemblyReference.cache
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\obj\Debug\net8.0\BaiTap3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\obj\Debug\net8.0\BaiTap3.AssemblyInfoInputs.cache
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\obj\Debug\net8.0\BaiTap3.AssemblyInfo.cs
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\obj\Debug\net8.0\BaiTap3.csproj.CoreCompileInputs.cache
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\obj\Debug\net8.0\BaiTap3.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\obj\Debug\net8.0\BaiTap3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\obj\Debug\net8.0\BaiTap3.RazorAssemblyInfo.cache
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\obj\Debug\net8.0\BaiTap3.RazorAssemblyInfo.cs
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\obj\Debug\net8.0\staticwebassets\msbuild.BaiTap3.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\obj\Debug\net8.0\staticwebassets\msbuild.build.BaiTap3.props
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BaiTap3.props
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BaiTap3.props
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\obj\Debug\net8.0\scopedcss\bundle\BaiTap3.styles.css
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\obj\Debug\net8.0\scopedcss\projectbundle\BaiTap3.bundle.scp.css
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\obj\Debug\net8.0\BaiTap3.csproj.Up2Date
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\obj\Debug\net8.0\BaiTap3.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\obj\Debug\net8.0\refint\BaiTap3.dll
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\obj\Debug\net8.0\BaiTap3.pdb
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\obj\Debug\net8.0\BaiTap3.genruntimeconfig.cache
+C:\Users\NGUYEN\Desktop\CNTT\laptrinhweb\bailam\BaiTap3\BaiTap3\obj\Debug\net8.0\ref\BaiTap3.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\appsettings.Development.json
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\appsettings.json
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\BaiTap3.staticwebassets.runtime.json
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\BaiTap3.exe
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\BaiTap3.deps.json
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\BaiTap3.runtimeconfig.json
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\BaiTap3.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\BaiTap3.pdb
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.BearerToken.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authorization.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Endpoints.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Server.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Web.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Cors.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.DataProtection.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Hosting.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Features.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Results.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Identity.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Localization.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Metadata.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.OutputCaching.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.RateLimiting.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Razor.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.RequestDecompression.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Rewrite.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Routing.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.NamedPipes.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Session.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.SignalR.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.WebSockets.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.CSharp.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.Caching.Memory.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Json.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.DependencyInjection.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.Features.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.Hosting.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.Http.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.Identity.Core.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.Identity.Stores.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.Localization.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.Console.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.Debug.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.ObjectPool.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.Options.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.Primitives.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Extensions.WebEncoders.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.JSInterop.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Net.Http.Headers.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.VisualBasic.Core.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.VisualBasic.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Win32.Primitives.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\Microsoft.Win32.Registry.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\mscorlib.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\netstandard.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.AppContext.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Buffers.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Collections.Concurrent.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Collections.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Collections.Immutable.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Collections.NonGeneric.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Collections.Specialized.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.ComponentModel.Annotations.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.ComponentModel.DataAnnotations.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.ComponentModel.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.ComponentModel.EventBasedAsync.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.ComponentModel.Primitives.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.ComponentModel.TypeConverter.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Configuration.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Console.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Core.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Data.Common.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Data.DataSetExtensions.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Data.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Diagnostics.Contracts.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Diagnostics.Debug.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Diagnostics.DiagnosticSource.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Diagnostics.EventLog.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Diagnostics.FileVersionInfo.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Diagnostics.Process.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Diagnostics.StackTrace.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Diagnostics.Tools.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Diagnostics.TraceSource.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Diagnostics.Tracing.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Drawing.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Drawing.Primitives.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Dynamic.Runtime.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Formats.Asn1.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Formats.Tar.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Globalization.Calendars.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Globalization.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Globalization.Extensions.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.IO.Compression.Brotli.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.IO.Compression.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.IO.Compression.FileSystem.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.IO.Compression.ZipFile.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.IO.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.IO.FileSystem.AccessControl.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.IO.FileSystem.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.IO.FileSystem.DriveInfo.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.IO.FileSystem.Primitives.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.IO.FileSystem.Watcher.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.IO.IsolatedStorage.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.IO.MemoryMappedFiles.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.IO.Pipelines.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.IO.Pipes.AccessControl.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.IO.Pipes.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.IO.UnmanagedMemoryStream.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Linq.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Linq.Expressions.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Linq.Parallel.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Linq.Queryable.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Memory.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Net.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Net.Http.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Net.Http.Json.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Net.HttpListener.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Net.Mail.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Net.NameResolution.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Net.NetworkInformation.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Net.Ping.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Net.Primitives.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Net.Quic.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Net.Requests.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Net.Security.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Net.ServicePoint.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Net.Sockets.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Net.WebClient.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Net.WebHeaderCollection.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Net.WebProxy.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Net.WebSockets.Client.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Net.WebSockets.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Numerics.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Numerics.Vectors.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.ObjectModel.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Reflection.DispatchProxy.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Reflection.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Reflection.Emit.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Reflection.Emit.ILGeneration.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Reflection.Emit.Lightweight.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Reflection.Extensions.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Reflection.Metadata.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Reflection.Primitives.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Reflection.TypeExtensions.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Resources.Reader.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Resources.ResourceManager.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Resources.Writer.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Runtime.CompilerServices.VisualC.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Runtime.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Runtime.Extensions.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Runtime.Handles.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Runtime.InteropServices.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Runtime.InteropServices.JavaScript.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Runtime.Intrinsics.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Runtime.Loader.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Runtime.Numerics.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Runtime.Serialization.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Runtime.Serialization.Formatters.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Runtime.Serialization.Json.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Runtime.Serialization.Primitives.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Runtime.Serialization.Xml.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Security.AccessControl.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Security.Claims.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Security.Cryptography.Algorithms.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Security.Cryptography.Cng.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Security.Cryptography.Csp.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Security.Cryptography.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Security.Cryptography.Encoding.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Security.Cryptography.OpenSsl.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Security.Cryptography.Primitives.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Security.Cryptography.X509Certificates.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Security.Cryptography.Xml.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Security.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Security.Principal.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Security.Principal.Windows.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Security.SecureString.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.ServiceModel.Web.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.ServiceProcess.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Text.Encoding.CodePages.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Text.Encoding.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Text.Encoding.Extensions.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Text.Encodings.Web.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Text.Json.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Text.RegularExpressions.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Threading.Channels.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Threading.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Threading.Overlapped.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Threading.RateLimiting.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Threading.Tasks.Dataflow.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Threading.Tasks.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Threading.Tasks.Extensions.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Threading.Tasks.Parallel.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Threading.Thread.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Threading.ThreadPool.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Threading.Timer.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Transactions.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Transactions.Local.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.ValueTuple.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Web.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Web.HttpUtility.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Windows.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Xml.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Xml.Linq.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Xml.ReaderWriter.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Xml.Serialization.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Xml.XDocument.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Xml.XmlDocument.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Xml.XmlSerializer.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Xml.XPath.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\System.Xml.XPath.XDocument.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\refs\WindowsBase.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\Humanizer.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\Microsoft.Build.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\NuGet.Common.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\NuGet.Configuration.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\NuGet.LibraryModel.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\NuGet.Packaging.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\NuGet.ProjectModel.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\NuGet.Protocol.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\NuGet.Versioning.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\System.CodeDom.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\af\Humanizer.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\ar\Humanizer.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\az\Humanizer.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\bg\Humanizer.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\cs\Humanizer.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\da\Humanizer.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\de\Humanizer.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\el\Humanizer.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\es\Humanizer.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\fa\Humanizer.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\fr\Humanizer.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\he\Humanizer.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\hr\Humanizer.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\hu\Humanizer.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\hy\Humanizer.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\id\Humanizer.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\is\Humanizer.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\it\Humanizer.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\ja\Humanizer.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\ku\Humanizer.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\lv\Humanizer.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\mt\Humanizer.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\nb\Humanizer.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\nl\Humanizer.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\pl\Humanizer.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\pt\Humanizer.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\ro\Humanizer.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\ru\Humanizer.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\sk\Humanizer.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\sl\Humanizer.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\sr\Humanizer.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\sv\Humanizer.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\tr\Humanizer.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\uk\Humanizer.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\vi\Humanizer.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\File Code\html\BaiTap3\BaiTap3\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\File Code\html\BaiTap3\BaiTap3\obj\Debug\net8.0\BaiTap3.csproj.AssemblyReference.cache
+C:\File Code\html\BaiTap3\BaiTap3\obj\Debug\net8.0\BaiTap3.GeneratedMSBuildEditorConfig.editorconfig
+C:\File Code\html\BaiTap3\BaiTap3\obj\Debug\net8.0\BaiTap3.AssemblyInfoInputs.cache
+C:\File Code\html\BaiTap3\BaiTap3\obj\Debug\net8.0\BaiTap3.AssemblyInfo.cs
+C:\File Code\html\BaiTap3\BaiTap3\obj\Debug\net8.0\BaiTap3.csproj.CoreCompileInputs.cache
+C:\File Code\html\BaiTap3\BaiTap3\obj\Debug\net8.0\BaiTap3.MvcApplicationPartsAssemblyInfo.cs
+C:\File Code\html\BaiTap3\BaiTap3\obj\Debug\net8.0\BaiTap3.MvcApplicationPartsAssemblyInfo.cache
+C:\File Code\html\BaiTap3\BaiTap3\obj\Debug\net8.0\BaiTap3.RazorAssemblyInfo.cache
+C:\File Code\html\BaiTap3\BaiTap3\obj\Debug\net8.0\BaiTap3.RazorAssemblyInfo.cs
+C:\File Code\html\BaiTap3\BaiTap3\obj\Debug\net8.0\staticwebassets.build.json
+C:\File Code\html\BaiTap3\BaiTap3\obj\Debug\net8.0\staticwebassets.development.json
+C:\File Code\html\BaiTap3\BaiTap3\obj\Debug\net8.0\staticwebassets\msbuild.BaiTap3.Microsoft.AspNetCore.StaticWebAssets.props
+C:\File Code\html\BaiTap3\BaiTap3\obj\Debug\net8.0\staticwebassets\msbuild.build.BaiTap3.props
+C:\File Code\html\BaiTap3\BaiTap3\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BaiTap3.props
+C:\File Code\html\BaiTap3\BaiTap3\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BaiTap3.props
+C:\File Code\html\BaiTap3\BaiTap3\obj\Debug\net8.0\staticwebassets.pack.json
+C:\File Code\html\BaiTap3\BaiTap3\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\File Code\html\BaiTap3\BaiTap3\obj\Debug\net8.0\scopedcss\bundle\BaiTap3.styles.css
+C:\File Code\html\BaiTap3\BaiTap3\obj\Debug\net8.0\scopedcss\projectbundle\BaiTap3.bundle.scp.css
+C:\File Code\html\BaiTap3\BaiTap3\obj\Debug\net8.0\BaiTap3.csproj.Up2Date
+C:\File Code\html\BaiTap3\BaiTap3\obj\Debug\net8.0\BaiTap3.dll
+C:\File Code\html\BaiTap3\BaiTap3\obj\Debug\net8.0\refint\BaiTap3.dll
+C:\File Code\html\BaiTap3\BaiTap3\obj\Debug\net8.0\BaiTap3.pdb
+C:\File Code\html\BaiTap3\BaiTap3\obj\Debug\net8.0\BaiTap3.genruntimeconfig.cache
+C:\File Code\html\BaiTap3\BaiTap3\obj\Debug\net8.0\ref\BaiTap3.dll

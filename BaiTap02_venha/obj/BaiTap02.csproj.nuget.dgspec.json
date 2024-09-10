@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\File Code\\html\\BaiTap02_venha\\BaiTap02.csproj": {}
+    "D:\\File Code\\html\\TT\\BaiTap02_venha\\BaiTap02.csproj": {}
   },
   "projects": {
-    "C:\\File Code\\html\\BaiTap02_venha\\BaiTap02.csproj": {
+    "D:\\File Code\\html\\TT\\BaiTap02_venha\\BaiTap02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\File Code\\html\\BaiTap02_venha\\BaiTap02.csproj",
+        "projectUniqueName": "D:\\File Code\\html\\TT\\BaiTap02_venha\\BaiTap02.csproj",
         "projectName": "BaiTap02",
-        "projectPath": "C:\\File Code\\html\\BaiTap02_venha\\BaiTap02.csproj",
+        "projectPath": "D:\\File Code\\html\\TT\\BaiTap02_venha\\BaiTap02.csproj",
         "packagesPath": "C:\\Users\\THANG\\.nuget\\packages\\",
-        "outputPath": "C:\\File Code\\html\\BaiTap02_venha\\obj\\",
+        "outputPath": "D:\\File Code\\html\\TT\\BaiTap02_venha\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\THANG\\AppData\\Roaming\\NuGet\\NuGet.Config",

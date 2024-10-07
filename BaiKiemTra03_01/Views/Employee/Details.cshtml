@@ -1,0 +1,28 @@
+﻿@model BaiKiemTra03_01.Models.Employee
+
+@{
+    ViewData["Title"] = "Employee Details";
+}
+
+<h2>Employee Details</h2>
+
+<div>
+    <h4>@Model.EmployeeName</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">Employee ID</dt>
+        <dd class="col-sm-10">@Model.EmployeeId</dd>
+
+        <dt class="col-sm-2">Position</dt>
+        <dd class="col-sm-10">@Model.Position</dd>
+
+        <dt class="col-sm-2">Department</dt>
+        <dd class="col-sm-10">@Model.Department.DepartmentName</dd>
+
+        <dt class="col-sm-2">Hire Date</dt>
+        <dd class="col-sm-10">@Model.HireDate.ToString("yyyy-MM-dd")</dd>
+    </dl>
+</div>
+<a href="@Url.Action("Index", "Employee", new { area = "Admin" })" class="btn btn-secondary">Back to List</a>
+<a href="@Url.Action("Edit", "Employee", new { area = "Admin", id = Model.EmployeeId })" class="btn btn-primary">Edit</a>
+<a href="@Url.Action("Delete", "Employee", new { area = "Admin", id = Model.EmployeeId })" class="btn btn-danger">Delete</a>

@@ -1,0 +1,30 @@
+﻿@model BaiKiemTra03_01.Models.Employee
+
+<h2>Xóa nhân viên</h2>
+
+<h3>Bạn có chắc chắn muốn xóa nhân viên này không?</h3>
+<div>
+    <h4>Nhân viên</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            Tên
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.EmployeeName)
+        </dd>
+        <dt class="col-sm-2">
+            Phòng ban
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Department.DepartmentName)
+        </dd>
+        <!-- Bạn có thể hiển thị thêm thông tin khác nếu cần -->
+    </dl>
+
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="EmployeeId" />
+        <input type="submit" value="Xóa" class="btn btn-danger" /> |
+        <a asp-action="Index" class="btn btn-secondary">Hủy</a>
+    </form>
+</div>

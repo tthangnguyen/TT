@@ -1,0 +1,31 @@
+﻿@model BaiKiemTra03_01.Models.Department
+
+@{
+    ViewData["Title"] = "Department Details";
+}
+
+<h2>Department Details</h2>
+
+<div>
+    <h4>Department</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            Department ID
+        </dt>
+        <dd class="col-sm-10">
+            @Model.DepartmentId
+        </dd>
+        <dt class="col-sm-2">
+            Department Name
+        </dt>
+        <dd class="col-sm-10">
+            @Model.DepartmentName
+        </dd>
+    </dl>
+</div>
+
+<div>
+    <a href="@Url.Action("Edit", "Department", new { id = Model.DepartmentId })" class="btn btn-primary">Edit</a>
+    <a href="@Url.Action("Index", "Department")">Back to List</a>
+</div>

@@ -1,0 +1,33 @@
+﻿@model IEnumerable<BaiKiemTra03_01.Models.Department>
+
+@{
+    ViewData["Title"] = "Department List";
+}
+
+<h2>Department List</h2>
+
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>Department ID</th>
+            <th>Department Name</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var department in Model)
+        {
+            <tr>
+                <td>@department.DepartmentId</td>
+                <td>@department.DepartmentName</td>
+                <td>
+                    <a href="@Url.Action("Details", "Department", new { id = department.DepartmentId })" class="btn btn-info">Details</a>
+                    <a href="@Url.Action("Edit", "Department", new { id = department.DepartmentId })" class="btn btn-primary">Edit</a>
+                    <a href="@Url.Action("Delete", "Department", new { id = department.DepartmentId })" class="btn btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a href="@Url.Action("Create", "Department")" class="btn btn-success">Create New Department</a>
